@@ -23,9 +23,9 @@ The jyputer notebook `taskB.ipynb` contains the code for the project. The code i
 - Apply Herris Corner Detection Algorithm from scratch on the image and plot the detected corners on the image.
 
 
-<img src="results/harris/parrot.png" alt="Image description" width="300" height="300"><img src="results/harris/chess.png" alt="Image description" width="300" height="300"><img src="results/harris/cat.png" alt="Image description" width="300" height="300"><img src="results/harris/rome.png" alt="Image description" width="300" height="300">
+<img src="results/harris/parrot.png" alt="Image description" width="220" height="220"><img src="results/harris/chess.png" alt="Image description" width="220" height="220"><img src="results/harris/cat.png" alt="Image description" width="220" height="220"><img src="results/harris/rome.png" alt="Image description" width="220" height="220">
 
 - Apply Hessian Corner Detection Algorithm from scratch on the image and plot the detected corners on the image.
 
 
-<img src="results/hessian/parrot.png" alt="Image description" width="300" height="300"><img src="results/hessian/chess.png" alt="Image description" width="300" height="300"><img src="results/hessian/cat.png" alt="Image description" width="300" height="300"><img src="results/hessian/rome.png" alt="Image description" width="300" height="300">
+<img src="results/hessian/parrot.png" alt="Image description" width="220" height="220"><img src="results/hessian/chess.png" alt="Image description" width="220" height="220"><img src="results/hessian/cat.png" alt="Image description" width="220" height="220"><img src="results/hessian/rome.png" alt="Image description" width="220" height="220">
