@@ -6,8 +6,10 @@ The jyputer notebook `taskD.ipynb` contains the code for the project. The code i
 
 ![video](results/original/1.gif)
 ![video](results/original/2.gif)
+
 ![video](results/original/3.gif)
 ![video](results/original/5.gif)  
+
 ![video](results/original/6.gif)
 ![video](results/original/7.gif)
 
@@ -16,8 +18,10 @@ The jyputer notebook `taskD.ipynb` contains the code for the project. The code i
 
 ![video](results/flow/1.gif)
 ![video](results/flow/2.gif)
+
 ![video](results/flow/3.gif)
 ![video](results/flow/5.gif)  
+
 ![video](results/flow/6.gif)
 ![video](results/flow/7.gif)
 
