@@ -1,4 +1,4 @@
-# Task B:
+# Task D:
 The jyputer notebook `taskD.ipynb` contains the code for the project. The code is written in python and all the functions are implemented from scratch without using openCV's inbuilt functions.
 
 ### Part 0:
