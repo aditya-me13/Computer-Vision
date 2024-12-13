@@ -23,6 +23,7 @@ The jyputer notebook `taskE.ipynb` contains the code for the project. The code i
 - Estimate the camera matrix [R | t] using matched points in Question 1.
 
 Camera matrix for pair 0: 
+
 $$
 \begin{bmatrix} 
 9.99999969e-01 & 2.48313147e-04 & 4.33836813e-06 & -9.99851452e-01 \\ 
@@ -32,6 +33,7 @@ $$
 $$
 
 Camera matrix for pair 1:
+
 $$
 \begin{bmatrix} 
 9.99996889e-01 & -2.49444201e-03 & -1.59094339e-05 & -9.99268979e-01 \\ 
@@ -41,6 +43,7 @@ $$
 $$
 
 Camera matrix for pair 2: 
+
 $$
 \begin{bmatrix} 
 9.99998189e-01 & 1.90306300e-03 & 1.60347674e-05 & -9.99909473e-01 \\ 
@@ -50,6 +53,7 @@ $$
 $$
 
 Camera matrix for pair 3: 
+
 $$
 \begin{bmatrix} 
 9.99998731e-01 & -1.59298168e-03 & -2.70361718e-06 & -9.99957300e-01 \\ 
@@ -59,6 +63,7 @@ $$
 $$
 
 Camera matrix for pair 4: 
+
 $$
 \begin{bmatrix} 
 9.99999346e-01 & -1.14346364e-03 & -3.40561769e-06 & -9.99907601e-01 \\ 
