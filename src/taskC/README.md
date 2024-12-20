@@ -26,8 +26,8 @@ The ```main.py``` is the driver file for the image stitching task. The ```functi
 ### Part 1:
 - Implement Panaroma Stitching using SIFT feature detection and BFMatcher from openCV. Use these to warp the images and stitch them together as a Panaroma. Do not use the inbuilt functions of openCV for warping stitching. The results of the stitching of the images are shown below:
 
-<img src="results/I5.png" alt="Image description" height="250" margin-right = "5">
-<img src="results/I6.png" alt="Image description" height="250">
+<img src="results/I5.png" alt="Image description" height="200" margin-right = "5">
+<img src="results/I6.png" alt="Image description" height="200">
 
 ### Important Note:
 - Running the code is computationally expensive, so the images has been scaled down by a factor of ```0.7``` in order to reduce the computational time. 
