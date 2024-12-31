@@ -21,24 +21,24 @@ pip install -r requirements.txt
 ## Task A:
 Add noise to the images and remove it using various smoothening filters. Apply Canny Edge Detection to the images.
 
-<image src="src/taskA/results/original.png" height="250"> <image src="src/taskA/results/self.png" height="250"> <image src="src/taskA/results/heatmap.png" height="250">
+<image src="src/taskA/results/original.png" height="200"> <image src="src/taskA/results/self.png" height="200"> <image src="src/taskA/results/heatmap.png" height="200">
 
 ## Task B:
 Implement Gaussian Pyramid Downsampling from scratch. Implement Image Blending using Laplacian Pyramid. Finally apply Harris and Hessian Corner Detection algorithm.
 
-<image src="src/taskB/results/blend.png" width="880">
+<image src="src/taskB/results/blend.png" width="720">
 
-<img src="src/taskB/results/harris/parrot.png" alt="Image description"  width="220"><img src="src/taskB/results/harris/chess.png" alt="Image description"  width="220"><img src="src/taskB/results/harris/cat.png" alt="Image description"  width="220"><img src="src/taskB/results/harris/rome.png" alt="Image description"  width="220">
+<img src="src/taskB/results/harris/parrot.png" alt="Image description"  width="180"><img src="src/taskB/results/harris/chess.png" alt="Image description"  width="180"><img src="src/taskB/results/harris/cat.png" alt="Image description"  width="180"><img src="src/taskB/results/harris/rome.png" alt="Image description"  width="180">
 
 ## Task C:
 Implement Panorama Stitching from scratch.
 
 <div style="display: inline-block;">
-    <img src="data/images/C/I6/1_1.JPG" alt="Image 1" style="height: 120px; margin-right: 5px;">
-    <img src="data/images/C/I6/1_2.JPG" alt="Image 2" style="height: 120px; margin-right: 5px;">
-    <img src="data/images/C/I6/1_3.JPG" alt="Image 3" style="height: 120px; margin-right: 5px;">
-    <img src="data/images/C/I6/1_4.JPG" alt="Image 4" style="height: 120px; margin-right: 5px;">
-    <img src="data/images/C/I6/1_5.JPG" alt="Image 5" style="height: 120px;">
+    <img src="data/images/C/I6/1_1.JPG" alt="Image 1" style="height: 100px; margin-right: 5px;">
+    <img src="data/images/C/I6/1_2.JPG" alt="Image 2" style="height: 100px; margin-right: 5px;">
+    <img src="data/images/C/I6/1_3.JPG" alt="Image 3" style="height: 100px; margin-right: 5px;">
+    <img src="data/images/C/I6/1_4.JPG" alt="Image 4" style="height: 100px; margin-right: 5px;">
+    <img src="data/images/C/I6/1_5.JPG" alt="Image 5" style="height: 100px;">
 </div>
 <img src="src/taskC/results/I6.png" alt="Image description" width="660">
 
